@@ -1,4 +1,4 @@
-# Discord Server Info Bot  
+# BattleMetrics Discord Bot  
 
 This bot displays server information (such as players online, maximum players, and in-game time) as its status on Discord. It uses the BattleMetrics API to fetch data and updates the bot's status regularly.  
 
